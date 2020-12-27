@@ -3,7 +3,10 @@
 
 <!-- APRESENTAÇÃO -->
 <h1 align="right">Hi, nice to meet you
+<!--
     <img align="right" src='.github/bat.gif' alt="Morcego" width="50">
+-->
+<img align="right" src='.github/bat.png' alt="Bart Simpson" width="50">
 </h1>
 <p align="right">Welcome to my page!
     <br>
