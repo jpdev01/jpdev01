@@ -1,5 +1,5 @@
 <!-- APRESENTAÇÃO GIF -->
-<img align="left" src=".github/MatheusVidigal-ApresentaçãoGIF.gif" alt="Hi"  width="50%"/>
+<img align="left" src=".github/apresentation.gif" alt="Hi"  width="50%"/>
 
 <!-- APRESENTAÇÃO -->
 <h1 align="right">Hi, nice to meet you
@@ -9,9 +9,11 @@
     <br>
     I'm João Pedro Truchinski Borba, full stack developer, currently 18 years old and passionate about studying and programming.
     <br>
+	<!--
     <img src='.github/heart.gif' alt="Coração-1 explodindo" width="70">
     <img src='.github/heart.gif' alt="Coração-2 explodindo" width="70">
     <img src='.github/heart.gif' alt="Coração-3 explodindo" width="70">
+	-->
 </p>
 
 
