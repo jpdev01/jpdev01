@@ -7,7 +7,7 @@
 </h1>
 <p align="right">Welcome to my page!
     <br>
-    I'm Matheus Vidigal, front-end developer, currently 18 years old and passionate about programming.
+    I'm João Pedro Truchinski Borba, full stack developer, currently 18 years old and passionate about studying and programming.
     <br>
     <img src='.github/heart.gif' alt="Coração-1 explodindo" width="70">
     <img src='.github/heart.gif' alt="Coração-2 explodindo" width="70">
@@ -18,52 +18,47 @@
 <br><br><br><!--spacing-3x-->
 
 <!-- FOCO... -->
+<!--
 <h3 align="left">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     A Beginner Developer Focused On Web / Mobile
 </h3>
+-->
 
-<img align="right" src='.github/cat.gif' alt="Morcego" width="20%">
+<img align="right" src='.github/myIcon.gif' alt="I" width="20%">
 
 <!-- SOBRE MIM -->
-- 🌱 I am currently studying JS and CSS at [Rocketseat](https://app.rocketseat.com.br/me/matheus-vidigal-nyctibius) and [Digital Innovation One](https://web.digitalinnovation.one/users/matheus_dev_07?tab=achievements)
 
-- 👨🏻‍💻 I’m looking to collaborate on web projects
+- 📚 I'm graduated in systems development technician at senai
 
-- 🤔 I’m looking for help with SQL and remote servers
+- 🌱 I currently develop mainly in languages Java, php, JS
 
-- ✉ How to reach me **matheus.dev.07@gmail.com**
+- 🤔 I love studying and I'm ready for any challenge
 
-- ⚡ Fun fact i'm a big fan of One Piece
+- ✉ How to reach me **jptruchinski@gmail.com**
 
 <br><!--spacing-->
-<img align="left" src='.github/catBallon.gif' alt="Gato flutuando" width="50">
+<img align="left" src='.github/programming.gif' alt="Developer" width="50">
 <!-- TECNOLOGIAS -->
 <h3 align="right">
     My Development Stack
     &nbsp;
 </h3>
 <p align="right"><br>&nbsp;
-    <code><img src=".github/tecSvg/android.svg"   alt="Android"   height="16"/></code>&nbsp;
+    <!--<code><img src=".github/tecSvg/android.svg"   alt="Android"   height="16"/></code>&nbsp;-->
     <code><img src=".github/tecSvg/java.svg"      alt="Java"      height="16"/></code>&nbsp;
-    <code><img src=".github/tecSvg/cPlusPlus.svg" alt="cPlusPlus" height="16"/></code>&nbsp;
+    <!--<code><img src=".github/tecSvg/cPlusPlus.svg" alt="cPlusPlus" height="16"/></code>&nbsp;-->
     |&nbsp;
     <code><img src=".github/tecSvg/html5.svg" alt="Html5" height="16"/></code>&nbsp;
     <code><img src=".github/tecSvg/css3.svg"  alt="Css3"  height="16"/></code>&nbsp;
+	<code><img src=".github/tecSvg/angular-js.png" alt="AngularJS" height="16"/></code>&nbsp;
+	<code><img src=".github/tecSvg/javascript.svg" alt="Javascript" height="16"/></code>&nbsp;
     <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="16"/></code>&nbsp;
     |&nbsp;
     <code><img src=".github/tecSvg/javascript.svg" alt="Javascript" height="16"/></code>&nbsp;
-    <code><img src=".github/tecSvg/node.svg"       alt="Node"       height="16"/></code>&nbsp;
-    |&nbsp;
     <code><img src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png"           alt="GitHub" height="16"/></code>&nbsp;
     <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="16"/></code>&nbsp;
     <code><img src="https://icongr.am/devicon/gitlab-original.svg?size=16&color=currentColor" alt="Gitlab" height="16"/></code>&nbsp;
-    |&nbsp;
-    <code><img src=".github/tecSvg/handlebars.svg" alt="handlebars" height="16" width="16"/></code>&nbsp;
-    <code><img src="https://icongr.am/devicon/devicon-plain.svg?size=16&color=currentColor" alt="Devicon"   height="16"/></code>&nbsp;
-    <code><img src="https://icongr.am/devicon/photoshop-plain.svg?size=16&color=4d91ff"     alt="Photoshop" height="16"/></code>&nbsp;
-    <code><img src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png"        alt="Trello"    height="16"/></code>&nbsp;
-    <!-- https://devicon.dev/ -->
 </p>
 
 <br><!--spacing-->
