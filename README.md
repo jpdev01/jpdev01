@@ -65,7 +65,7 @@
 
 <!-- API | MYGITHUB -->
 <p align="center">
-    <img  align="center" src="https://github-readme-stats.vercel.app/api?username=jpdev01&show_icons=true&custom_title=🦊%20Matheus%20Vidigal's%20GitHub%20Stats&title_color=ff441e&text_color=fd5634&icon_color=f74716&bg_color=282a36&hide_border=true&count_private=true&hide=issues" alt="My GitHub stats"/>
+    <img  align="center" src="https://github-readme-stats.vercel.app/api?username=jpdev01&show_icons=true&custom_title=🦊%20João%20Pedro%20Truchinski%Borba%20GitHub%20Stats&title_color=ff441e&text_color=fd5634&icon_color=f74716&bg_color=282a36&hide_border=true&count_private=true&hide=issues" alt="My GitHub stats"/>
     <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpdev01&custom_title=🍧%20Most%20Used%20Languages&title_color=ff79c6&text_color=ff79c6&icon_color=f74716&bg_color=282a36&hide_border=true&line_height=9&layout=compact" alt="Linguagens de programação mais usadas"/>
 </p>
 <!-- #282a36 | fbfbfb
@@ -82,25 +82,20 @@
 
 <!-- REDES SOCIAIS -->
 <p align="center">
-    <a href="https://twitter.com/NyctibiusVII" target="blank">
-        <img src=".github/twitter.svg" alt="Twitter" height="20"/>
-    </a>
-    <a href="https://www.linkedin.com/in/matheus-vidigal-nyctibiusvii/" target="blank">
+
+    <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-truchinski-borba-37151a119/" target="blank">
         <img src=".github/linkedin.svg" alt="Linkedin" height="20"/>
     </a>
-    <a href="https://pt.stackoverflow.com/users/155001/matheus-vidigal" target="blank">
-        <img src=".github/stack-overflow.svg" alt="StackOverflow" height="20"/>
-    </a>
-    <a href="https://www.instagram.com/nyctibius_vii/" target="blank">
+    <a href="https://www.instagram.com/jp_borba/" target="blank">
         <img src=".github/instagram.svg" alt="Instagram" height="20"/>
     </a>
-    <a href="https://discord.gg/DMuCj2s" target="blank">
+    <a href="https://discord.gg/h5SSnrg6" target="blank">
         <img src=".github/discord.svg" alt="Discord" height="20"/>
     </a>
 </p>
 
 <!--
-**NyctibiusVII/NyctibiusVII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jpdev01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
