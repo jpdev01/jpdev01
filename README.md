@@ -47,6 +47,7 @@
 <p align="right"><br>&nbsp;
     <!--<code><img src=".github/tecSvg/android.svg"   alt="Android"   height="16"/></code>&nbsp;-->
     <code><img src=".github/tecSvg/java.svg"      alt="Java"      height="16"/></code>&nbsp;
+	<code><img src=".github/tecSvg/php.png" alt="AngularJS" height="16"/></code>&nbsp;
     <!--<code><img src=".github/tecSvg/cPlusPlus.svg" alt="cPlusPlus" height="16"/></code>&nbsp;-->
     |&nbsp;
     <code><img src=".github/tecSvg/html5.svg" alt="Html5" height="16"/></code>&nbsp;
@@ -55,7 +56,6 @@
 	<code><img src=".github/tecSvg/javascript.svg" alt="Javascript" height="16"/></code>&nbsp;
     <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="16"/></code>&nbsp;
     |&nbsp;
-    <code><img src=".github/tecSvg/javascript.svg" alt="Javascript" height="16"/></code>&nbsp;
     <code><img src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png"           alt="GitHub" height="16"/></code>&nbsp;
     <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="16"/></code>&nbsp;
     <code><img src="https://icongr.am/devicon/gitlab-original.svg?size=16&color=currentColor" alt="Gitlab" height="16"/></code>&nbsp;
