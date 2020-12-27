@@ -36,7 +36,7 @@
 
 - 📚 I'm graduated in systems development technician at senai
 
-- 🌱 I currently develop mainly in languages Java, php, JS
+- 🌱 I currently develop mainly in languages Java, php, JS, HTML5, CSS
 
 - 🤔 I love studying and I'm ready for any challenge
 
@@ -55,9 +55,9 @@
 	<code><img src=".github/tecSvg/php.png" alt="AngularJS" height="32"/></code>&nbsp;
     <!--<code><img src=".github/tecSvg/cPlusPlus.svg" alt="cPlusPlus" height="32"/></code>&nbsp;-->
 	<code><img src=".github/tecSvg/javascript.svg" alt="Javascript" height="32"/></code>&nbsp;
-    |&nbsp;
-    <code><img src=".github/tecSvg/html5.svg" alt="Html5" height="32"/></code>&nbsp;
+	<code><img src=".github/tecSvg/html5.svg" alt="Html5" height="32"/></code>&nbsp;
     <code><img src=".github/tecSvg/css3.svg"  alt="Css3"  height="32"/></code>&nbsp;
+    |&nbsp;
 	<code><img src=".github/tecSvg/angular-js.png" alt="AngularJS" height="32"/></code>&nbsp;
 	<code><img src=".github/tecSvg/docker.png" alt="Docker" height="32"/></code>&nbsp;
     <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="32"/></code>&nbsp;
