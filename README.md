@@ -84,7 +84,6 @@
 
 <!-- REDES SOCIAIS -->
 <p align="center">
-
     <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-truchinski-borba-37151a119/" target="blank">
         <img src=".github/linkedin.svg" alt="Linkedin" height="20"/>
     </a>
