@@ -51,7 +51,7 @@
 </h3>
 <p align="right"><br>&nbsp;
     <!--<code><img src=".github/tecSvg/android.svg"   alt="Android"   height="16"/></code>&nbsp;-->
-    <code><img src=".github/tecSvg/java.svg"      alt="Java"      height="16"/></code>&nbsp;
+    <code><img src=".github/tecSvg/java.svg"      alt="Java"      height="16"/></code>
 	<code><img src=".github/tecSvg/php.png" alt="AngularJS" height="16"/></code>&nbsp;
     <!--<code><img src=".github/tecSvg/cPlusPlus.svg" alt="cPlusPlus" height="16"/></code>&nbsp;-->
     |&nbsp;
