@@ -33,7 +33,7 @@
 <img align="right" src='.github/myIcon.gif' alt="I" width="20%">
 
 <!-- SOBRE MIM -->
-
+<br>
 - 📚 I'm graduated in systems development technician at Senai
 
 - 🌱 I currently develop mainly in languages Java, php, JS, HTML5, CSS
