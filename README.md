@@ -37,7 +37,7 @@
 
 - 📚 I'm graduated in systems development technician at Senai
 
-- 🌱 I currently develop mainly in languages Java, php, JS, HTML5, CSS and frameworks (hibernate, spring, bootstrap, etc).
+- 🌱 I currently develop mainly in languages Java, php, JS, HTML5, CSS and frameworks (hibernate, spring, angular, jquery, bootstrap, etc).
 
 - 🤔 I love studying and I'm ready for any challenge
 
