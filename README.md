@@ -55,8 +55,8 @@
     <code><img src=".github/tecSvg/java.svg"      alt="Java"      height="32"/></code>&nbsp;
 	<code><img src=".github/tecSvg/php.png" alt="AngularJS" height="32"/></code>&nbsp;
     <!--<code><img src=".github/tecSvg/cPlusPlus.svg" alt="cPlusPlus" height="32"/></code>&nbsp;-->
-	<code><img src=".github/tecSvg/typescript.svg" alt="Javascript" height="32"/></code>&nbsp;
-	<code><img src=".github/tecSvg/java.svg"      alt="Typescript"      height="32"/></code>&nbsp;
+	<code><img src=".github/tecSvg/javascript.svg" alt="Javascript" height="32"/></code>&nbsp;
+	<code><img src=".github/tecSvg/typescript.svg"      alt="Typescript"      height="32"/></code>&nbsp;
 	<code><img src=".github/tecSvg/html5.svg" alt="Html5" height="32"/></code>&nbsp;
     <code><img src=".github/tecSvg/css3.svg"  alt="Css3"  height="32"/></code>&nbsp;
     |&nbsp;
