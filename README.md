@@ -39,6 +39,7 @@
 
 - 🌱 I currently develop mainly in languages Java, PHP, JavaScript, Typescript, HTML5, CSS and frameworks (Hibernate, Spring, Angular, Jquery, Bootstrap, etc).
 - 🌱 Database managers: MySQL, SQL Server and Oracle.
+- Unit tests with JUnit
 
 - 🤔 I love studying and I'm ready for any challenge
 
