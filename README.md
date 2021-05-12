@@ -37,11 +37,12 @@
 
 - 📚 I'm graduated in systems development technician at Senai
 
-- 🌱 I currently develop mainly in languages Java, PHP, JavaScript, Typescript, HTML5, CSS and frameworks (Hibernate, Spring, Angular, Jquery, Bootstrap, etc).
+- 💻 I currently develop mainly in languages Java, PHP, JavaScript, Typescript, HTML5, CSS and frameworks (Hibernate, Spring, Angular, Jquery, Bootstrap, etc).
 - ☁️ Database managers: MySQL, SQL Server and Oracle.
 - ⚖️ Unit tests with JUnit
-
-- 🤔 I love studying and I'm ready for any challenge
+- 📦 Package Management: Maven, Yarn and Node.
+- ✔️ Scrum
+- ✔️ microservices
 
 - ✉ How to reach me **jptruchinski@gmail.com**
 
