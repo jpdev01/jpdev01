@@ -61,7 +61,8 @@
     <!--<code><img src=".github/tecSvg/cPlusPlus.svg" alt="cPlusPlus" height="32"/></code>&nbsp;-->
 	<code><img src=".github/tecSvg/javascript.svg" alt="Javascript" height="32"/></code>&nbsp;
 	<code><img src=".github/tecSvg/typescript.png"      alt="Typescript"      height="32"/></code>&nbsp;
-	<code><img src=".github/tecSvg/reactjs.png"      alt="Typescript"      height="32"/></code>&nbsp;
+	<code><img src=".github/tecSvg/reactjs.png"      alt="reactjs"      height="32"/></code>&nbsp;
+	<code><img src=".github/tecSvg/nodejs.png"      alt="NodeJS"      height="32"/></code>&nbsp;
 	<code><img src=".github/tecSvg/html5.svg" alt="Html5" height="32"/></code>&nbsp;
     <code><img src=".github/tecSvg/css3.svg"  alt="Css3"  height="32"/></code>&nbsp;
     |&nbsp;
