@@ -43,7 +43,7 @@
 - ⚖️ Unit tests with JUnit
 - 📦 Package Management: Maven, Yarn and Node.
 - ✔️ Scrum
-- ✔️ microservices
+- ✔️ microservices, Docker, Linux
 
 - ✉ How to reach me **jptruchinski@gmail.com**
 
