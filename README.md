@@ -10,7 +10,7 @@
 </h1>
 <p align="right">Welcome to my page!
     <br>
-    I'm João Pedro Truchinski Borba, full stack developer, currently 18 years old and passionate about studying and programming.
+    Software Engineer at Asaas. I work with a very good team. Where we prioritize code quality above all.
     <br>
 	<!--
     <img src='.github/heart.gif' alt="Coração-1 explodindo" width="70">
