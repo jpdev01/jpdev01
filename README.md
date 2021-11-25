@@ -37,7 +37,7 @@
 
 - 📚 Senai and UDESC
 
-- 💻 I currently develop mainly in languages Java, PHP, JavaScript, Typescript, NodeJS, HTML5, CSS 
+- 💻 I currently develop mainly in languages Java, Groovy, PHP, JavaScript, Typescript, NodeJS, HTML5, CSS 
 - Hibernate, Spring, Angular, Jquery, Bootstrap, ReactJS and more.
 - ☁️ Database managers: MySQL, SQL Server and Oracle.
 - ⚖️ Unit tests with JUnit
