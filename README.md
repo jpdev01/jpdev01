@@ -48,7 +48,7 @@
 - ✉ How to reach me **jptruchinski@gmail.com**
 
 <br><!--spacing-->
-<img align="left" src='.github/programming.gif' alt="Developer" width="50">
+<img align="left" src='.github/linux.gif' alt="Developer" width="50">
 <!-- TECNOLOGIAS -->
 <h3 align="right">
     My Development Stack
