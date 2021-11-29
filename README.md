@@ -58,7 +58,7 @@
     <!--<code><img src=".github/tecSvg/android.svg"   alt="Android"   height="16"/></code>&nbsp;-->
     <code><img src=".github/tecSvg/java.svg"      alt="Java"      height="32"/></code>&nbsp;
 	<code><img src=".github/tecSvg/php.png" alt="AngularJS" height="32"/></code>&nbsp;
-	<code><img src=".github/tecSvg/groovy_icon.png.png" alt="Groovy" height="32"/></code>&nbsp;
+	<code><img src=".github/tecSvg/groovy_icon.png" alt="Groovy" height="32"/></code>&nbsp;
     <!--<code><img src=".github/tecSvg/cPlusPlus.svg" alt="cPlusPlus" height="32"/></code>&nbsp;-->
 	<code><img src=".github/tecSvg/javascript.svg" alt="Javascript" height="32"/></code>&nbsp;
 	<code><img src=".github/tecSvg/typescript.png"      alt="Typescript"      height="32"/></code>&nbsp;
