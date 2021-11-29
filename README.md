@@ -66,7 +66,9 @@
 	<code><img src=".github/tecSvg/Hibernate.png" alt="Hibernate" height="32"/></code>&nbsp;
 	<code><img src=".github/tecSvg/nodejs.png"      alt="NodeJS"      height="32"/></code>&nbsp;
 	<code><img src=".github/tecSvg/html5.svg" alt="Html5" height="32"/></code>&nbsp;
-    <code><img src=".github/tecSvg/css3.svg"  alt="Css3"  height="32"/></code>&nbsp;| <br>&nbsp;
+    <code><img src=".github/tecSvg/css3.svg"  alt="Css3"  height="32"/></code>&nbsp;|
+	<br><br>
+	&nbsp;
 	<code><img src=".github/tecSvg/angular-js.png" alt="AngularJS" height="32"/></code>&nbsp;
 	<code><img src=".github/tecSvg/docker.png" alt="Docker" height="32"/></code>&nbsp;
     <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="32"/></code>&nbsp;
