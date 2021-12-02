@@ -77,7 +77,8 @@
 </p>
 
 <br><!--spacing-->
-
+<img align="right" src='.github/pocoyo.gif' alt="I" width="20%">
+<br>
 <!-- API | MYGITHUB -->
 <p align="center">
     <img  align="center" src="https://github-readme-stats.vercel.app/api?username=jpdev01&show_icons=true&custom_title=🦊%20João%20Pedro%20Truchinski%20Borba%20GitHub%20Stats&title_color=ff441e&text_color=fd5634&icon_color=f74716&bg_color=282a36&hide_border=true&count_private=true&include_all_commits=true&hide=issues" alt="My GitHub stats"/>
