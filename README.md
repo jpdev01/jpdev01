@@ -70,7 +70,7 @@
     <code><img src=".github/tecSvg/css3.svg"  alt="Css3"  height="32"/></code>&nbsp;|&nbsp;
 	<code><img src=".github/tecSvg/angular-js.png" alt="AngularJS" height="32"/></code>&nbsp;
 	<code><img src=".github/tecSvg/docker.png" alt="Docker" height="32"/></code>&nbsp;
-	<code><img src=".github/tecSvg/AWS.png" alt="Docker" height="32"/></code>&nbsp;
+	<code><img src=".github/tecSvg/AWS2.png" alt="Docker" height="32"/></code>&nbsp;
     <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="32"/></code>&nbsp;
     |&nbsp;
     <code><img src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png"           alt="GitHub" height="32"/></code>&nbsp;
