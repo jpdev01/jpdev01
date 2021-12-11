@@ -10,7 +10,8 @@
 </h1>
 <p align="right">Welcome to my GitHub!
     <br>
-    Software Engineer at Asaas. I work with a very good team. Where we prioritize code quality above all.
+    Software Engineer at @Asaas. I work with a very good team. Where we prioritize code quality above all.
+	My io: https://jpdev01.github.io/
     <br>
 	<!--
     <img src='.github/heart.gif' alt="Coração-1 explodindo" width="70">
