@@ -37,7 +37,7 @@
 <!-- SOBRE MIM -->
 <br>
 
-- 📚 Senai & UDESC
+- 📚 Senai & Universidade do Estado de Santa Catarina (UDESC)
 
 - ✉ How to reach me **jptruchinski@gmail.com**
 
