@@ -37,15 +37,7 @@
 <!-- SOBRE MIM -->
 <br>
 
-- 📚 Senai and UDESC
-
-- 💻 I currently develop mainly in languages Java, Groovy, PHP, C, JavaScript, Typescript, NodeJS, HTML5, CSS 
-- Hibernate, Spring, Angular, Jquery, Bootstrap, ReactJS and more.
-- ☁️ Database managers: MySQL, SQL Server and Oracle.
-- ⚖️ Unit tests with JUnit
-- 📦 Package Management: Maven, Yarn and Node.
-- ✔️ Scrum
-- ✔️ microservices, Docker, Linux, AWS
+- 📚 Senai & UDESC
 
 - ✉ How to reach me **jptruchinski@gmail.com**
 
@@ -56,12 +48,102 @@
     My Development Stack
     &nbsp;
 </h3>
+<div align="center">
+  <a href="">
+    <img src="https://img.shields.io/static/v1?label=&message=angular&color=BD002E&style=for-the-badge&logo=angular"/>
+  </a>
+
+<a href="">
+    <img src="https://img.shields.io/static/v1?label=&message=Java&color=20232A&style=for-the-badge&logo=java"/>
+  </a>
+
+<a href="">
+    <img src="https://img.shields.io/static/v1?label=&message=groovy&color=20232A&style=for-the-badge&logo=sdk"/>
+  </a>
+
+<a href="">
+    <img src="https://img.shields.io/static/v1?label=&message=php&color=20232A&style=for-the-badge&logo=php"/>
+  </a>
+
+<a href="">
+    <img src="https://img.shields.io/static/v1?label=&message=javascript&color=20232A&style=for-the-badge&logo=javascript"/>
+  </a>
+
+<a href="">
+    <img src="https://img.shields.io/static/v1?label=&message=typescript&color=20232A&style=for-the-badge&logo=typescript"/>
+  </a>
+
+<a href="">
+    <img src="https://img.shields.io/static/v1?label=&message=reactjs&color=20232A&style=for-the-badge&logo=react"/>
+  </a>
+
+<a href="">
+    <img src="https://img.shields.io/static/v1?label=&message=hibernate&color=20232A&style=for-the-badge&logo=hibernate"/>
+  </a>
+
+<a href="">
+    <img src="https://img.shields.io/static/v1?label=&message=spring&color=20232A&style=for-the-badge&logo=spring"/>
+  </a>
+
+<a href="">
+    <img src="https://img.shields.io/static/v1?label=&message=node.js&color=20232A&style=for-the-badge&logo=node.js"/>
+  </a>
+
+<a href="">
+    <img src="https://img.shields.io/static/v1?label=&message=HTML5&color=20232A&style=for-the-badge&logo=html5"/>
+  </a>
+
+<a href="">
+    <img src="https://img.shields.io/static/v1?label=&message=CSS&color=20232A&style=for-the-badge&logo=css3"/>
+  </a>
+
+<a href="">
+    <img src="https://img.shields.io/static/v1?label=&message=Bootstrap&color=20232A&style=for-the-badge&logo=bootstrap"/>
+  </a>
+
+<a href="">
+    <img src="https://img.shields.io/static/v1?label=&message=docker&color=20232A&style=for-the-badge&logo=docker"/>
+  </a>
+
+<a href="">
+    <img src="https://img.shields.io/static/v1?label=&message=jquery&color=20232A&style=for-the-badge&logo=jquery"/>
+  </a>
+
+<a href="">
+    <img src="https://img.shields.io/static/v1?label=&message=AWS&color=20232A&style=for-the-badge&logo=amazon"/>
+  </a>
+
+<a href="">
+    <img src="https://img.shields.io/static/v1?label=&message=MYSQL&color=20232A&style=for-the-badge&logo=mysql"/>
+  </a>
+
+<a href="">
+    <img src="https://img.shields.io/static/v1?label=&message=SQLSERVER&color=20232A&style=for-the-badge&logo=microsoftsqlserver"/>
+  </a>
+
+<a href="">
+    <img src="https://img.shields.io/static/v1?label=&message=Git&color=20232A&style=for-the-badge&logo=git"/>
+  </a>
+
+<a href="">
+    <img src="https://img.shields.io/static/v1?label=&message=github&color=20232A&style=for-the-badge&logo=github"/>
+  </a>
+
+<a href="">
+    <img src="https://img.shields.io/static/v1?label=&message=gitlab&color=20232A&style=for-the-badge&logo=gitlab"/>
+  </a>
+
+<a href="">
+    <img src="https://img.shields.io/static/v1?label=&message=junit&color=20232A&style=for-the-badge&logo=JUnit5"/>
+  </a>
+
+</div>
+<!--
 <p align="right"><br>&nbsp;
-    <!--<code><img src=".github/tecSvg/android.svg"   alt="Android"   height="16"/></code>&nbsp;-->
     <code><img src=".github/tecSvg/java.svg"      alt="Java"      height="32"/></code>&nbsp;
 	<code><img src=".github/tecSvg/php.png" alt="AngularJS" height="32"/></code>&nbsp;
 	<code><img src=".github/tecSvg/groovy_icon.png" alt="Groovy" height="32"/></code>&nbsp;
-    <!--<code><img src=".github/tecSvg/cPlusPlus.svg" alt="cPlusPlus" height="32"/></code>&nbsp;-->
+    <code><img src=".github/tecSvg/cPlusPlus.svg" alt="cPlusPlus" height="32"/></code>&nbsp
 	<code><img src=".github/tecSvg/javascript.svg" alt="Javascript" height="32"/></code>&nbsp;
 	<code><img src=".github/tecSvg/typescript.png"      alt="Typescript"      height="32"/></code>&nbsp;
 	<code><img src=".github/tecSvg/reactjs.png"      alt="reactjs"      height="32"/></code>&nbsp;
@@ -79,7 +161,7 @@
     <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="32"/></code>&nbsp;
     <code><img src="https://icongr.am/devicon/gitlab-original.svg?size=16&color=currentColor" alt="Gitlab" height="32"/></code>&nbsp;
 </p>
-
+-->
 <br><!--spacing-->
 
 <!-- API | MYGITHUB -->
