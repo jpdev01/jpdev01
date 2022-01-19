@@ -49,10 +49,6 @@
     &nbsp;
 </h3>
 <div align="center">
-  <a href="">
-    <img src="https://img.shields.io/static/v1?label=&message=angular&color=BD002E&style=for-the-badge&logo=angular"/>
-  </a>
-
 <a href="">
     <img src="https://img.shields.io/static/v1?label=&message=Java&color=20232A&style=for-the-badge&logo=java"/>
   </a>
@@ -71,6 +67,10 @@
 
 <a href="">
     <img src="https://img.shields.io/static/v1?label=&message=typescript&color=20232A&style=for-the-badge&logo=typescript"/>
+  </a>
+
+ <a href="">
+    <img src="https://img.shields.io/static/v1?label=&message=angular&color=BD002E&style=for-the-badge&logo=angular"/>
   </a>
 
 <a href="">
