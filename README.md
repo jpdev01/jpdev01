@@ -39,8 +39,6 @@
 
 - 📚 Senai & Universidade do Estado de Santa Catarina (UDESC)
 
-- ✉ How to reach me **jptruchinski@gmail.com**
-
 <br><!--spacing-->
 <img align="left" src='.github/linux.jpg' alt="Developer" width="50">
 <!-- TECNOLOGIAS -->
