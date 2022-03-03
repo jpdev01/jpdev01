@@ -112,10 +112,6 @@
   </a>
 
 <a href="">
-    <img src="https://img.shields.io/static/v1?label=&message=jquery&color=20232A&style=for-the-badge&logo=jquery"/>
-  </a>
-
-<a href="">
     <img src="https://img.shields.io/static/v1?label=&message=AWS&color=20232A&style=for-the-badge&logo=amazon"/>
   </a>
 
