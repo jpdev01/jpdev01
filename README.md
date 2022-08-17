@@ -1,5 +1,5 @@
 <!-- APRESENTAÇÃO GIF -->
-<img align="left" src=".github/apresentation-jpdev01.gif" alt="Hi"  width="50%"/>
+<!-- <img align="left" src=".github/apresentation-jpdev01.gif" alt="Hi"  width="40%"/> -->
 
 <!-- APRESENTAÇÃO -->
 <h1 align="right">Hi, nice to meet you
