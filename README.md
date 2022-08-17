@@ -60,6 +60,10 @@
   </a>
 
 <a href="">
+    <img src="https://img.shields.io/static/v1?label=&message=C&color=20232A&style=for-the-badge&logo=c"/>
+  </a>
+
+<a href="">
     <img src="https://img.shields.io/static/v1?label=&message=javascript&color=20232A&style=for-the-badge&logo=javascript"/>
   </a>
 
@@ -86,6 +90,7 @@
 <a href="">
     <img src="https://img.shields.io/static/v1?label=&message=spring&color=20232A&style=for-the-badge&logo=spring"/>
   </a>
+
 
 <a href="">
     <img src="https://img.shields.io/static/v1?label=&message=node.js&color=20232A&style=for-the-badge&logo=node.js"/>
