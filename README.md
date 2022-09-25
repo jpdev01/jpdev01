@@ -12,6 +12,8 @@
     <br>
     Software Engineer at @Asaas. I work with a very good team. Where we prioritize code quality above all.
 	<br>
+	Good Codes Don't Need Comments
+	<br>
 	My io: https://jpdev01.github.io/
     <br>
 	<!--
