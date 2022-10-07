@@ -39,7 +39,7 @@
 <!-- SOBRE MIM -->
 <br>
 
-- 📚 Senai & Universidade do Estado de Santa Catarina (UDESC)
+- 📚 Universidade do Estado de Santa Catarina (UDESC)
 
 <br><!--spacing-->
 <img align="left" src='.github/linux.jpg' alt="Developer" width="50">
