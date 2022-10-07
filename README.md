@@ -10,7 +10,7 @@
 </h1>
 <p align="right">Welcome to my GitHub!
     <br>
-    Software Engineer at @Asaas. I work with a very good team. Where we prioritize code quality above all.
+    Software Engineer at @Asaas. I work with a very good team.
 	<br>
 	Good Codes Don't Need Comments
 	<br>
