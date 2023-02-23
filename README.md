@@ -178,6 +178,8 @@
     <img  align="center" src="https://github-readme-stats.vercel.app/api?username=jpdev01&show_icons=true&custom_title=🦊%20João%20Pedro%20Truchinski%20Borba%20GitHub%20Stats&title_color=ff441e&text_color=fd5634&icon_color=f74716&bg_color=282a36&hide_border=true&count_private=true&include_all_commits=true&hide=issues" alt="My GitHub stats"/>
 	<br>
     <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpdev01&custom_title=🍧%20Most%20Used%20Languages&title_color=ff79c6&text_color=ff79c6&icon_color=f74716&bg_color=282a36&hide_border=true&line_height=9&hide=css" alt="Linguagens de programação mais usadas"/>
+	<br>
+	![](https://github-readme-streak-stats.herokuapp.com/?user=jpdev01&theme=gotham&hide_border=true)<br/>
 </p>
 <!-- #282a36 | fbfbfb
      #ff79c6 | 6651ab
