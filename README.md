@@ -179,7 +179,7 @@
 	<br>
     <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpdev01&custom_title=🍧%20Most%20Used%20Languages&title_color=ff79c6&text_color=ff79c6&icon_color=f74716&bg_color=282a36&hide_border=true&line_height=9&hide=css" alt="Linguagens de programação mais usadas"/>
 	<br>
-	![](https://github-readme-streak-stats.herokuapp.com/?user=jpdev01&theme=gotham&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jpdev01&theme=gotham&hide_border=true)<br/>
 </p>
 <!-- #282a36 | fbfbfb
      #ff79c6 | 6651ab
