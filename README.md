@@ -34,7 +34,7 @@
 </h3>
 -->
 
-<img align="right" src='.github/catdev.gif' alt="I" width="20%">
+<img align="right" src='.github/hasbulla.gif' alt="I" width="20%">
 
 <!-- SOBRE MIM -->
 <br>
