@@ -5,4 +5,5 @@ Passionate about technology, web enthusiast, and a lover of solving problems.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-truchinski/">Linkedin</a> •
+  <a href="https://medium.com/@jptruchinski">Medium</a>
 </p>
